@@ -40,7 +40,11 @@ It simulates a smart home automation system using **Arduino**, **PICSimLab**, an
 ### 📚 Internship Details
 **Organization:** Emertxe Information Technologies, Bangalore  
 **Duration:** 4 Weeks  
-**Focus Areas:** IoT, Embedded Systems, C/C++ Programming  
+**Focus Areas:** IoT, Embedded Systems, C/C++ Programming 
+## 🎬 Project Demo Video
+You can watch my project demonstration here:  
+https://youtu.be/hAvW44T85kU?si=mdB-Vvpz8GHnpYYP
+
 
 ### 🏁 Conclusion
 Using the Blynk IoT app and PICSimLab, this project demonstrates a real-time home automation system that monitors and controls household parameters efficiently.
@@ -48,3 +52,4 @@ Using the Blynk IoT app and PICSimLab, this project demonstrates a real-time hom
 ---
 
 ⭐ *Developed by P. Pavan Kalyan Reddy*
+
